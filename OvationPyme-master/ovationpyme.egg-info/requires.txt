@@ -1,0 +1,6 @@
+numpy
+matplotlib
+aacgmv2
+geospacepy
+logbook
+scipy

@@ -1,0 +1,33 @@
+Metadata-Version: 2.4
+Name: ovationpyme
+Version: 0.1.0
+Summary: Ovation Prime Auroral Model
+Home-page: https://github.com/lkilcommons/ovationpyme
+Download-URL: https://github.com/lkilcommons/ovationpyme
+Author: Liam Kilcommons
+Author-email: liam.kilcommons@colorado.edu
+License: LICENSE.txt
+Classifier: Development Status :: 4 - Beta
+Classifier: Topic :: Scientific/Engineering
+Classifier: Intended Audience :: Science/Research
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python
+License-File: LICENSE.txt
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: aacgmv2
+Requires-Dist: geospacepy
+Requires-Dist: logbook
+Requires-Dist: scipy
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: download-url
+Dynamic: home-page
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary
+
+This is a Python port of the IDL implementation of Ovation Prime auroral particle flux model originally created by Newell et al (JHU) and packaged on Sourceforge by Redmon (NOAA NCEI), Machol, and Case  for more information visit: https://sourceforge.net/projects/ovation-prime/
